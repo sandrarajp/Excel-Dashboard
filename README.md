@@ -1,6 +1,5 @@
 # 📊 Excel Sales Dashboard 2025
-
-![Dashboard Preview]![WhatsApp Image 2025-08-06 at 16 03 42_adf8284a](https://github.com/user-attachments/assets/2e3807fb-e9a0-4900-9f4e-1a1b54608cea)
+![WhatsApp Image 2025-08-06 at 16 03 42_adf8284a](https://github.com/user-attachments/assets/2e3807fb-e9a0-4900-9f4e-1a1b54608cea)
 
 
 ## 📝 Project Description
@@ -39,13 +38,6 @@ The data used in this dashboard includes the following columns:
 ✅ Regional Sales Comparison (Bar Chart)  
 ✅ Slicers for **City** and **Product**  
 ✅ User-friendly layout with clickable filters  
-
----
-
-## 📷 Screenshots
-
-### 🔝 Excel Dashboard
-![WhatsApp Image 2025-08-06 at 16 03 42_adf8284a](https://github.com/user-attachments/assets/74172314-f65c-4f4a-9bb0-96342cecda31)
 
 ---
 
